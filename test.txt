@@ -1,3 +1,4 @@
 teszt fájl
 módosítok kicsit
 asd
+szia
