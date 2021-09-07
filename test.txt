@@ -2,3 +2,4 @@ teszt fájl
 módosítok kicsit
 asd
 szia
+hó
